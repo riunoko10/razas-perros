@@ -122,3 +122,19 @@ ul {
   font-weight: bold;
   font-size: x-large;
 }
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  
+}
+
+.mainContainer > main {
+  height: 100%;
+}
+
+.mainContainer > footer {
+  background-color: #fab410;
+  padding: 3%;
+}

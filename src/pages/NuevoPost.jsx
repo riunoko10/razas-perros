@@ -1,7 +1,8 @@
+import Header from "../components/Header"
+import Footer from "../components/Footer"
+
 export default function NuevoPost() {
   return (
-    <div>
-      <h1>Nuevo Post</h1>
-    </div>
+        <div>Aqui ubicara los nuevos Post</div>
   );
 }
